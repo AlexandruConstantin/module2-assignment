@@ -9,3 +9,41 @@ h1 {
   font: black bold;
   font-family: Arial; 
 }
+
+section {
+  margin:10px;
+  padding: 30px 10px 10px 10px;
+  font-family: Arial; 
+  font-size: 1.1em;
+  background-color: gray;
+  border: 1px solid;
+}
+
+p {
+  position: absolute;
+  top:-10px;
+  right:10px;
+  width: 150px;
+  font-size: 1.2em;
+  text-align: center;
+  font-family:Times new roman;
+  font-style: bold;
+  border: 1px black solid;
+  color: white;
+}
+
+.title1 {
+  background-color: red;
+}
+
+.title2 {
+  background-color: green;
+}
+
+.title3 {
+  background-color: orange;
+}
+
+.row {
+  width: 100%;
+}
